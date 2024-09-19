@@ -98,6 +98,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/vdmanish/vdmanish/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -119,7 +121,7 @@
 ###
 
 <div align="center">
-  <img height="600" src="https://camo.githubusercontent.com/6a1b1b17baa3c91481af1d3dafd94a9ae85f7b9e9cb4c38b4cfc79a2c52dab3c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66322f37342f36612f66323734366165313737613566346263623539636630386338643136346231332e676966"  />
+  <img height="400" src="https://user-images.githubusercontent.com/82384593/156415281-9cb4f61c-2cd6-453f-afc3-8c87717c6b28.gif"  />
 </div>
 
 ###
