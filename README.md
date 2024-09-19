@@ -8,7 +8,17 @@
 
 ###
 
-<p align="left">About Me 🙋‍♂️ <br><br>🔭 I’m currently Fourth year Graduate.<br><br>🌱 I’m currently learning everything that is necessary.<br><br>👯 I’m looking to collaborate on OpenSource Projects<br><br>📫 How to reach me : contact me <br><br>⚡ Fun fact : Thirty-five percent of people who use personal ads for dating are already married.</p>
+<p align="left">About Me 🙋‍♂️ <br><br>🔭 Currently I'm a Fourth year Graduate.<br><br>🌱 I’m currently learning everything that is necessary.<br><br>👯 I’m looking to collaborate on OpenSource Projects<br><br>📫 How to reach me : contact me <br><br>⚡ Fun fact : Thirty-five percent of people who use personal ads for dating are already married.</p>
+
+###
+
+<h1 align="left">Streak :</h1>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=vdmanish&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=50" height="200" alt="streak graph"  />
+</div>
 
 ###
 
@@ -17,9 +27,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vdmanish&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="95" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=vdmanish&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="95" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vdmanish&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false" height="95" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vdmanish&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vdmanish&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=highcontrast&hide_border=true&order=2" height="175" alt="languages graph"  />
 </div>
 
 ###
@@ -98,8 +107,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/vdmanish/vdmanish/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -109,13 +116,13 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="70" height="50" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="70" height="50" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="50" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="70" height="50" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="70" height="50" alt="slack logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="70" height="50" alt="telegram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="100" height="50" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="100" height="50" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="100" height="50" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="100" height="50" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="100" height="50" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="100" height="50" alt="slack logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="100" height="50" alt="telegram logo"  />
 </div>
 
 ###
