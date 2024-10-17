@@ -9,7 +9,9 @@
 ###
 
 
-<p align="left">About Me 🙋‍♂️ <br><br>🔭 Currently I'm a Fourth year Graduate.<br><br>🌱 I’m currently learning everything that is necessary.<br><br>👯 I’m looking to collaborate on OpenSource Projects<br><br>📫 How to reach me : contact me <br><br>⚡ Fun fact : Thirty-five percent of people who use personal ads for dating are already married.</p>
+<p align="left">About Me 🙋‍♂️ <br><br>🔭 Currently I'm a Fourth year Graduate.<br><br>🌱 I’m currently learning everything that is necessary.<br><br>👯 I’m looking to collaborate on OpenSource Projects<br><br>📫 How to reach me : Contact me: <a href="mailto:&#118;&#101;&#100;&#97;&#110;&#116;&#97;&#109;&#109;&#97;&#110;&#105;&#115;&#104;&#52;&#52;&#52;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">Email me</a>
+
+  ⚡ Fun fact : Thirty-five percent of people who use personal ads for dating are already married.</p>
 
 ###
 [![An image of @vdmanish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vdmanish)](https://holopin.io/@vdmanish)
