@@ -4,22 +4,20 @@
 
 ###
 
+<p align="left">About Me 🙋‍♂️ <br><br>🔭 Currently I'm a Fourth year Graduate.<br><br>🌱 I’m currently learning everything that is necessary.<br><br>👯 I’m looking to collaborate on OpenSource Projects<br><br>📫 How to reach me : contact me <br><br>⚡ Fun fact : Thirty-five percent of people who use personal ads for dating are already married.</p>
+
+###
+
 <h1 align="left">Hey there👋! Manish here.</h1>
 
 ###
 
-
-<p align="left">About Me 🙋‍♂️ <br><br>🔭 Currently I'm a Fourth year Graduate.<br><br>🌱 I’m currently learning everything that is necessary.<br><br>👯 I’m looking to collaborate on OpenSource Projects<br><br>📫 How to reach me : Contact me: <a href="mailto:&#118;&#101;&#100;&#97;&#110;&#116;&#97;&#109;&#109;&#97;&#110;&#105;&#115;&#104;&#52;&#52;&#52;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">Email me</a>
-
-  ⚡ Fun fact : Thirty-five percent of people who use personal ads for dating are already married.</p>
-
-###
-[![An image of @vdmanish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vdmanish)](https://holopin.io/@vdmanish)
 <h1 align="left">Streak :</h1>
 
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vdmanish&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="95" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=vdmanish&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=50" height="200" alt="streak graph"  />
 </div>
 
@@ -109,6 +107,8 @@
 <h1 align="left">My Graph :</h1>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/vdmanish/vdmanish/output/snake.svg" alt="Snake animation" />
 
