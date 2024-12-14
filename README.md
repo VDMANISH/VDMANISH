@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://camo.githubusercontent.com/2258ba0f05163f3778f6ec7608f1c0f9247c337ff15ed2e0adaee102e1c44142/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966"  />
+  <img height="200" src="https://camo.githubusercontent.com/2258ba0f05163f3778f6ec7608f1c0f9247c337ff15ed2e0adaee102e1c44142/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966"  />
 </div>
 
 ###
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">About Me 🙋‍♂️ <br><br>🔭 Currently I'm a Fourth year Graduate.<br><br>🌱 I’m currently learning everything that is necessary.<br><br>👯 I’m looking to collaborate on OpenSource Projects<br><br>📫 How to reach me : contact me <br><br>⚡ Fun fact : Thirty-five percent of people who use personal ads for dating are already married.</p>
+<h6 align="left">About Me 🙋‍♂️ <br><br>🔭 Currently I'm a Fourth year Graduate.<br><br>🌱 I’m currently learning everything that is necessary.<br><br>👯 I’m looking to collaborate on OpenSource Projects<br><br>📫 How to reach me : <a href="mailto:vedantammanish444@gmail.com">Email Me</a> <br><br>⚡ Fun fact : Thirty-five percent of people who use personal ads for dating are already married.</h6>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h1 align="left">Github Stats :</h1>
+<h1 align="left">Stats :</h1>
 
 ###
 
@@ -68,8 +68,6 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="25" alt="fastapi logo"  />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="25" alt="firebase logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="flutter logo"  />
@@ -103,17 +101,11 @@
 
 ###
 
-<h1 align="left">My Graph :</h1>
-
-###
-
-<img src="https://raw.githubusercontent.com/vdmanish/vdmanish/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h1 align="left">Social Media :</h1>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="50" alt="linkedin logo"  />
@@ -127,13 +119,11 @@
 
 ###
 
-<div align="center">
-  <img height="400" src="https://user-images.githubusercontent.com/82384593/156415281-9cb4f61c-2cd6-453f-afc3-8c87717c6b28.gif"  />
-</div>
+<img align="right" height="197" src="https://user-images.githubusercontent.com/82384593/156415281-9cb4f61c-2cd6-453f-afc3-8c87717c6b28.gif"  />
 
 ###
 
-<h3 align="center">Thankk youuu!!</h3>
+<h3 align="center">Thank you!</h3>
 
 ###
 
