@@ -8,7 +8,7 @@
 
 ###
 
-<h6 align="left">About Me 🙋‍♂️ <br><br>🔭 Currently I'm a Fourth year Graduate.<br><br>🌱 I’m currently learning everything that is necessary.<br><br>👯 I’m looking to collaborate on OpenSource Projects<br><br>📫 How to reach me : <a href="mailto:vedantammanish444@gmail.com">Email </a> <br><br>⚡ Fun fact : Thirty-five percent of people who use personal ads for dating are already married.</h6>
+<h6 align="left">About Me 🙋‍♂️ <br><br>🔭 Currently I'm a Fourth year ECE Graduate with interest in CSE.<br><br>🌱 I’m currently learning everything that is necessary.<br><br>👯 I’m looking to collaborate on OpenSource Projects<br><br>📫 How to reach me : <a href="mailto:vedantammanish444@gmail.com">Email </a> <br><br>⚡ Fun fact : Thirty-five percent of people who use personal ads for dating are already married.</h6>
 
 ###
 
