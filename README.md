@@ -124,7 +124,7 @@
 
 ###
 
-<h3 align="center">Thank you!</h3>
+<h3 align="center">Views : </h3>
 
 ###
 
